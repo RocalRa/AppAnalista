@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>Funciones_y_Clases_en_VB</RootNamespace>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Interop.SAPFEWSELib">
+      <HintPath>..\..\InventoryAnalist\SAP\obj\Debug\Interop.SAPFEWSELib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,5 @@
+C:\Users\tjbjrv\source\repos\AppAnalista\Funciones y Clases en VB\obj\Debug\net5.0\Funciones y Clases en VB.vbprojAssemblyReference.cache
+C:\Users\tjbjrv\source\repos\AppAnalista\Funciones y Clases en VB\obj\Debug\net5.0\Funciones y Clases en VB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjbjrv\source\repos\AppAnalista\Funciones y Clases en VB\obj\Debug\net5.0\Funciones y Clases en VB.AssemblyInfoInputs.cache
+C:\Users\tjbjrv\source\repos\AppAnalista\Funciones y Clases en VB\obj\Debug\net5.0\Funciones y Clases en VB.AssemblyInfo.vb
+C:\Users\tjbjrv\source\repos\AppAnalista\Funciones y Clases en VB\obj\Debug\net5.0\Funciones y Clases en VB.vbproj.CoreCompileInputs.cache
