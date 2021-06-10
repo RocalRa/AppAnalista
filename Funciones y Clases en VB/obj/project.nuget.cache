@@ -1,8 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "4vCJXSyTHUeVfGcdxzjpESDz9OoWFVNZ/83NstjZRlfW3EAZo30MymuZspNrFlWQpw4J2Iq6NwesnT80FzzqIQ==",
+  "dgSpecHash": "ZB2wG+v9JJ1t529w2jJ7T64da/Y25m3JoKy7irM1QO8rF6Qwh4XHVLBqjoDW58ydPs399HaluHtjLN8u9pZhnQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\tjbjrv\\source\\repos\\AppAnalista\\Funciones y Clases en VB\\Funciones y Clases en VB.vbproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\tjbjrv\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\tjbjrv\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\tjbjrv\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
+    "C:\\Users\\tjbjrv\\.nuget\\packages\\system.directoryservices\\5.0.0\\system.directoryservices.5.0.0.nupkg.sha512",
+    "C:\\Users\\tjbjrv\\.nuget\\packages\\system.directoryservices.accountmanagement\\5.0.0\\system.directoryservices.accountmanagement.5.0.0.nupkg.sha512",
+    "C:\\Users\\tjbjrv\\.nuget\\packages\\system.directoryservices.protocols\\5.0.0\\system.directoryservices.protocols.5.0.0.nupkg.sha512",
+    "C:\\Users\\tjbjrv\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\tjbjrv\\.nuget\\packages\\system.io.filesystem.accesscontrol\\5.0.0\\system.io.filesystem.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\tjbjrv\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\tjbjrv\\.nuget\\packages\\system.security.cryptography.protecteddata\\5.0.0\\system.security.cryptography.protecteddata.5.0.0.nupkg.sha512",
+    "C:\\Users\\tjbjrv\\.nuget\\packages\\system.security.permissions\\5.0.0\\system.security.permissions.5.0.0.nupkg.sha512",
+    "C:\\Users\\tjbjrv\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\tjbjrv\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

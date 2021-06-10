@@ -1,0 +1,10 @@
+C:\Users\tjbjrv\source\repos\AppAnalista\Clases y Funciones VB\bin\Debug\Clases y Funciones VB.dll
+C:\Users\tjbjrv\source\repos\AppAnalista\Clases y Funciones VB\bin\Debug\Clases y Funciones VB.pdb
+C:\Users\tjbjrv\source\repos\AppAnalista\Clases y Funciones VB\bin\Debug\Clases y Funciones VB.xml
+C:\Users\tjbjrv\source\repos\AppAnalista\Clases y Funciones VB\obj\Debug\Clases y Funciones VB.vbprojAssemblyReference.cache
+C:\Users\tjbjrv\source\repos\AppAnalista\Clases y Funciones VB\obj\Debug\Clases_y_Funciones_VB.Resources.resources
+C:\Users\tjbjrv\source\repos\AppAnalista\Clases y Funciones VB\obj\Debug\Clases y Funciones VB.vbproj.GenerateResource.cache
+C:\Users\tjbjrv\source\repos\AppAnalista\Clases y Funciones VB\obj\Debug\Clases y Funciones VB.vbproj.CoreCompileInputs.cache
+C:\Users\tjbjrv\source\repos\AppAnalista\Clases y Funciones VB\obj\Debug\Clases y Funciones VB.dll
+C:\Users\tjbjrv\source\repos\AppAnalista\Clases y Funciones VB\obj\Debug\Clases y Funciones VB.xml
+C:\Users\tjbjrv\source\repos\AppAnalista\Clases y Funciones VB\obj\Debug\Clases y Funciones VB.pdb

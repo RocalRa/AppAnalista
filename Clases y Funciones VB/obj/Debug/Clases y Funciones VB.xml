@@ -1,0 +1,43 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Clases y Funciones VB
+</name>
+</assembly>
+<members>
+<member name="T:Clases_y_Funciones_VB.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Clases_y_Funciones_VB.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Clases_y_Funciones_VB.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Clases_y_Funciones_VB.SAPConnector.isSAPOpen">
+ <summary>
+ Validate if SAP is Open.
+ </summary>
+ <returns>True if there is a Open Connection</returns>
+</member>
+<member name="M:Clases_y_Funciones_VB.SAPConnector.Check_System(SAPFEWSELib.GuiSession@)">
+ <summary>
+ Validate if SAP has a System Message Window
+ </summary>
+ <param name="SAPSess"></param>
+</member>
+<member name="M:Clases_y_Funciones_VB.SAPConnector.ValidateSAPConnection">
+ <summary>
+ Validate if exists a SAP Session open.
+ </summary>
+</member>
+</members>
+</doc>

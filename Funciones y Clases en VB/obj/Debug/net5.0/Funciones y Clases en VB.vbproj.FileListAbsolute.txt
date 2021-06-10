@@ -3,3 +3,6 @@ C:\Users\tjbjrv\source\repos\AppAnalista\Funciones y Clases en VB\obj\Debug\net5
 C:\Users\tjbjrv\source\repos\AppAnalista\Funciones y Clases en VB\obj\Debug\net5.0\Funciones y Clases en VB.AssemblyInfoInputs.cache
 C:\Users\tjbjrv\source\repos\AppAnalista\Funciones y Clases en VB\obj\Debug\net5.0\Funciones y Clases en VB.AssemblyInfo.vb
 C:\Users\tjbjrv\source\repos\AppAnalista\Funciones y Clases en VB\obj\Debug\net5.0\Funciones y Clases en VB.vbproj.CoreCompileInputs.cache
+C:\Users\tjbjrv\source\repos\AppAnalista\Funciones y Clases en VB\obj\Debug\net5.0\Interop.SAPLogonCtrl.dll
+C:\Users\tjbjrv\source\repos\AppAnalista\Funciones y Clases en VB\obj\Debug\net5.0\Interop.SAPFEWSELib.dll
+C:\Users\tjbjrv\source\repos\AppAnalista\Funciones y Clases en VB\obj\Debug\net5.0\Funciones y Clases en VB.vbproj.ResolveComReference.cache

@@ -1,0 +1,19 @@
+C:\Users\tjbjrv\source\repos\AppAnalista\WPF Interfaces\bin\Debug\WPF_Interfaces.exe.config
+C:\Users\tjbjrv\source\repos\AppAnalista\WPF Interfaces\bin\Debug\WPF_Interfaces.exe
+C:\Users\tjbjrv\source\repos\AppAnalista\WPF Interfaces\bin\Debug\WPF_Interfaces.pdb
+C:\Users\tjbjrv\source\repos\AppAnalista\WPF Interfaces\bin\Debug\Clases y Funciones VB.dll
+C:\Users\tjbjrv\source\repos\AppAnalista\WPF Interfaces\bin\Debug\Clases y Funciones VB.pdb
+C:\Users\tjbjrv\source\repos\AppAnalista\WPF Interfaces\bin\Debug\Clases y Funciones VB.xml
+C:\Users\tjbjrv\source\repos\AppAnalista\WPF Interfaces\obj\Debug\WPF Interfaces.csprojAssemblyReference.cache
+C:\Users\tjbjrv\source\repos\AppAnalista\WPF Interfaces\obj\Debug\MainWindow.g.cs
+C:\Users\tjbjrv\source\repos\AppAnalista\WPF Interfaces\obj\Debug\App.g.cs
+C:\Users\tjbjrv\source\repos\AppAnalista\WPF Interfaces\obj\Debug\WPF_Interfaces_MarkupCompile.cache
+C:\Users\tjbjrv\source\repos\AppAnalista\WPF Interfaces\obj\Debug\WPF_Interfaces_MarkupCompile.lref
+C:\Users\tjbjrv\source\repos\AppAnalista\WPF Interfaces\obj\Debug\MainWindow.baml
+C:\Users\tjbjrv\source\repos\AppAnalista\WPF Interfaces\obj\Debug\WPF_Interfaces.g.resources
+C:\Users\tjbjrv\source\repos\AppAnalista\WPF Interfaces\obj\Debug\WPF_Interfaces.Properties.Resources.resources
+C:\Users\tjbjrv\source\repos\AppAnalista\WPF Interfaces\obj\Debug\WPF Interfaces.csproj.GenerateResource.cache
+C:\Users\tjbjrv\source\repos\AppAnalista\WPF Interfaces\obj\Debug\WPF Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\tjbjrv\source\repos\AppAnalista\WPF Interfaces\obj\Debug\WPF Interfaces.csproj.CopyComplete
+C:\Users\tjbjrv\source\repos\AppAnalista\WPF Interfaces\obj\Debug\WPF_Interfaces.exe
+C:\Users\tjbjrv\source\repos\AppAnalista\WPF Interfaces\obj\Debug\WPF_Interfaces.pdb

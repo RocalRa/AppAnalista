@@ -94,9 +94,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Funciones y Clases en VB\Funciones y Clases en VB.vbproj">
-      <Project>{f45fe6d0-172b-466f-8957-48d9be9d3334}</Project>
-      <Name>Funciones y Clases en VB</Name>
+    <ProjectReference Include="..\Clases y Funciones VB\Clases y Funciones VB.vbproj">
+      <Project>{2a3cbd24-215b-459b-8316-bef61f16c97d}</Project>
+      <Name>Clases y Funciones VB</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
