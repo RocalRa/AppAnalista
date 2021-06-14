@@ -3,7 +3,7 @@
       xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
-      xmlns:local="clr-namespace:WPF_Interfaces.Vistas"
+      xmlns:local="clr-namespace:WPF_Interfaces"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
       Title="LoginPage">
@@ -17,9 +17,9 @@
                     ">
 			<Label Content="LOGIN" HorizontalAlignment="Center" FontFamily="Verdana" FontWeight="Bold" Margin="15" FontSize="25"/>
 			<Label Content="Usuario:" FontWeight="Bold" Margin="5" FontSize="15" HorizontalContentAlignment="Center"/>
-			<TextBox Margin="10,0" x:Name="txtBoxUser"/>
-			<Label Content="Contrasena:" FontWeight="Bold" Margin="5" FontSize="15" HorizontalContentAlignment="Center"/>
-			<PasswordBox PasswordChar="*" Margin="10,0" x:Name="pwdBox"/>
+			<TextBox Margin="10,0" x:Name="txtBoxUser" HorizontalContentAlignment="Center"/>
+			<Label Content="Contrasena:" FontWeight="Bold" Margin="5" FontSize="15" HorizontalContentAlignment="Center" />
+			<PasswordBox PasswordChar="*" Margin="10,0" x:Name="pwdBox" HorizontalContentAlignment="Center"/>
 			<Button Margin="10" Content="Ingresar" Click="btnIngresar_Click" x:Name="btnIngresar" FontSize="15"/>
 
 		</StackPanel>

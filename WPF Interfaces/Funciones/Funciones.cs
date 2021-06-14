@@ -1,9 +1,13 @@
-﻿using System.Windows;
+﻿using System;
+using System.Windows;
 
 namespace WPF_Interfaces
 {
+
+	
 	public class Funciones
 	{
+		
 		public void Login(string txtLogonId, string txtPswrd)
 		{
 			string UserLoged = txtLogonId;
@@ -12,6 +16,7 @@ namespace WPF_Interfaces
 			{
 				// Cambio a Pagina Principal
 				MessageBox.Show("Sesion Iniciada");
+				cambioVista("Vistas/MainMenu.xaml");
 				//MainWindow mw  = new MainWindow();
 				//mw.Show();
 				//this.Close();
@@ -22,6 +27,12 @@ namespace WPF_Interfaces
 				MessageBox.Show("Contrasena Incorrecta");
 			}
 		}
+
+		public void cambioVista(string nombrePagina){
+		
+			((MainWindow)System.Windows.Application.Current.MainWindow).frmMainWindow.Navigate(new Uri(nombrePagina, UriKind.Relative));
+		}
+
 
 
 

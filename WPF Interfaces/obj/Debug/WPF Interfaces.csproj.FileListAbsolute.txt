@@ -19,3 +19,5 @@ C:\Users\tjbjrv\source\repos\AppAnalista\WPF Interfaces\obj\Debug\WPF_Interfaces
 C:\Users\tjbjrv\source\repos\AppAnalista\WPF Interfaces\obj\Debug\WPF_Interfaces.pdb
 C:\Users\tjbjrv\source\repos\AppAnalista\WPF Interfaces\obj\Debug\Vistas\LoginPage.g.cs
 C:\Users\tjbjrv\source\repos\AppAnalista\WPF Interfaces\obj\Debug\Vistas\LoginPage.baml
+C:\Users\tjbjrv\source\repos\AppAnalista\WPF Interfaces\obj\Debug\Vistas\MainMenu.g.cs
+C:\Users\tjbjrv\source\repos\AppAnalista\WPF Interfaces\obj\Debug\Vistas\MainMenu.baml

@@ -10,6 +10,7 @@
 		<Frame x:Name="frmMainWindow"
         Source="Vistas/LoginPage.xaml"
 			   NavigationUIVisibility="Hidden"
+               
         />
 	</Grid>
 </Window>
