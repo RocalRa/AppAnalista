@@ -8,7 +8,22 @@
       d:DesignHeight="450" d:DesignWidth="800"
       Title="MainMenu">
 
-    <Grid>
-        
-    </Grid>
+	<Grid>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="200"/>
+			<ColumnDefinition Width="*"/>
+		</Grid.ColumnDefinitions>
+		<StackPanel Orientation="Vertical" Margin="10">
+			<Button Margin="10" Content="261-262"/>
+			<Button Margin="10" Content="Movimiento Sloc a Sloc"/>
+			<Button Margin="10" Content="Permisos"/>
+			<Button Margin="10" Content="Scrap"/>
+			<Button Margin="10" Content="MF47"/>
+			<Button Margin="10" Content="Job Scheduler"/>
+
+
+		</StackPanel>
+
+	</Grid>
+
 </Page>
